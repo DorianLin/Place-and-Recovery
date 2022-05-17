@@ -63,10 +63,7 @@ The project is a mobile application for mental health and risk stratification ba
 
 ## Known Issues
 ### Version 1.0.0
-- DateTimePicker has problems on Android, work fine on iOS.
-- Haven't tested the case where there are no GPS signals.
 - The notification might not work properly if the users change the system time. Users can reset notification schedules if the notification don't work.
-- The notification works on Expo Go but seems have problem on iOS.
 
 ## Fixed Bugs
 ### Version 1.0.0
